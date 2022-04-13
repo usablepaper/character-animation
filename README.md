@@ -2,7 +2,7 @@
 
 # LAZY CAT
 
-![lazy_cat](./images/lazy_cat.gif)
+<p align="center"><img src="./images/lazy_cat.gif"></p>
 
 항상 잠만 자는 우리집 고양이 몽구와 몽글이를 생각하면서 만들었습니다.
 
